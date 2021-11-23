@@ -127,6 +127,7 @@ ul#sectionthree{
 #tablethree{
   margin-left: auto;
   margin-right: auto  ;
+   -webkit-border-radius: 6px;
 }
 
 #tablethree img{
